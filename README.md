@@ -43,6 +43,7 @@
 - インターンバイトにて
     - Ruby
     - PHP/CakePHP
-    - JavaScript
-    - HTML
-
+    - JavaScript/jQuery
+    - HTML/CSS
+    - PowerShell
+    - AppleScript
