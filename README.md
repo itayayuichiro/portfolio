@@ -24,14 +24,14 @@
 - LINEQ非公式ツール
     - http://itayaacademy.esy.es/lineq/
     - LINEQというサービスの中で回答が来てない質問をフィルタリングするツール
-    - 使用言語:PHP
+    - 使用言語:PHP,HTML,CSS
     - 使用技術:スクレイピング
 
 - 専大授業口コミサイトβ
     - http://rakutan.esy.es/
     - 自分の大学の講義の口コミサイト（大学内のシラバスデータを一括取得し正規化）
-    - 使用言語:PHP
-    - 使用技術:スクレイピング、データの正規化
+    - 使用言語:PHP,css,html
+    - 使用技術:スクレイピング、データの正規化、bootstrap
 
 - 歩けるWebサイト
     - http://itayasite.sitemix.jp/
