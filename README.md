@@ -40,7 +40,7 @@
     - 使用技術:jquery,enchant.js
 
 ## 使用したことのある言語
--インターンバイトにて
+- インターンバイトにて
     - Ruby
     - PHP/CakePHP
     - JavaScript
