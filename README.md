@@ -27,6 +27,11 @@
     - 使用言語:PHP,HTML,CSS
     - 使用技術:CakePHP
 
+- 【専修大学限定】どう森掲示板
+    - http://ity-y.sakura.ne.jp/senshu_doumori/login.php
+    - 専修大学の人のみが利用出来る掲示板
+    - 使用言語:PHP,HTML,CSS
+
 - LINEQ非公式ツール
     - http://itayaacademy.esy.es/lineq/
     - LINEQというサービスの中で回答が来てない質問をフィルタリングするツール
@@ -44,6 +49,12 @@
     - 大学で作った課題のまとめサイト。enchant.jsを用いてキーボードで移動できるサイトを作ってみた
     - 使用言語:js,php,html,css
     - 使用技術:jquery,enchant.js
+
+- 専修大学ポータルアプリ（ネイティブアプリ）
+    - https://play.google.com/store/apps/details?id=senshu.aaa.senpo
+    - 専修大学のポータルサイトの情報を簡単に見れるアプリ
+    - 使用言語:js,php,html,css
+    - 使用技術:jquery,cordova,Ajax
 
 ## 使用したことのある言語
 - インターンバイトにて
