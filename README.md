@@ -22,9 +22,9 @@
 ## 公開中のサービス、アプリケーション、ライブラリ
 
 - Youtuberコレクション
-    - http://ity-y.sakura.ne.jp/youtuber_collection/
-    - Youtuberをまとめたサイト
-    - 使用言語:PHP,HTML,CSS
+    - http://ity-y.sakura.ne.jp/youtuber_collection/
+    - Youtuberをまとめたサイト
+    - 使用言語:PHP,HTML,CSS
     - 使用技術:CakePHP
 
 - LINEQ非公式ツール
