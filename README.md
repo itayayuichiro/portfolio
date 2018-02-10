@@ -21,15 +21,14 @@
 
 ## 公開中のサービス、アプリケーション、ライブラリ
 
-- Youtuberコレクション
+- Youtuberコレクション[ソースコード](https://github.com/itayayuichiro/youtuber_collection)
     - http://ity-y.sakura.ne.jp/youtuber_collection/
     - Youtuberをまとめたサイト
     - 使用言語:PHP,HTML,CSS
     - 使用技術:CakePHP
 
-- 【専修大学限定】どう森掲示板
+- 【専修大学限定】どう森掲示板[ソースコード](https://github.com/itayayuichiro/senshu_doumori)
     - http://ity-y.sakura.ne.jp/senshu_doumori/login.php
-    - [ソースコード](https://github.com/itayayuichiro/senshu_doumori)
     - 専修大学の人のみが利用出来る掲示板
     - 使用言語:PHP,HTML,CSS
 
@@ -51,11 +50,12 @@
     - 使用言語:js,php,html,css
     - 使用技術:jquery,enchant.js
 
-- 専修大学ポータルアプリ（ネイティブアプリ）
+- 専修大学ポータルアプリ（ネイティブアプリ）[ソースコード(アプリ)](https://github.com/itayayuichiro/senshu_app)[ソースコード(API)](https://bitbucket.org/itaya_yuichiro/senshu/src)
     - https://play.google.com/store/apps/details?id=senshu.aaa.senpo
     - 専修大学のポータルサイトの情報を簡単に見れるアプリ
     - 使用言語:js,php,html,css
     - 使用技術:jquery,cordova,Ajax
+
 
 - ゆるゆるスライム大学生(LINEスタンプ)
     - https://store.line.me/stickershop/product/1236210
