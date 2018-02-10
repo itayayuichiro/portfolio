@@ -32,9 +32,9 @@
     - 専修大学の人のみが利用出来る掲示板
     - 使用言語:PHP,HTML,CSS
 
-- LINEQ非公式ツール(LINEQサービス終了につき終わり)
-    - http://ity-y.sakura.ne.jp/senshu_doumori/login.php
-    - LINEQというサービスの中で回答が来てない質問をフィルタリングするツール
+- LINEQ非公式ツール(LINEQサービス終了につきEND)
+    - http://itayaacademy.esy.es/lineq/
+    - LINEQというサービスの中で回答が来てない質問をフィルタリングするツール
     - 使用言語:PHP,HTML,CSS
     - 使用技術:スクレイピング
 
