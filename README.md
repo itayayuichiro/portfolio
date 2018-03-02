@@ -23,17 +23,17 @@
     - 記事のリライト
 
 - ＜株式会社ルーター＞
-　　- Rubyを用いたスクレイピング
-　　- SNSの広告収集
-　　- 商品登録の自動化
-　　- Seleniumを用いたブラウザ自動操作&データ収集
-　　- Charlesを用いたスマホのパケットキャプチャ
-　　- Go言語を用いたSeleniumの自動操作
-　　- JRubyを用いたSeleniumの自動操作
-　　- Alexa Skillの開発
-　　- Ruby on Railsを用いたアプリの回収
-　　- seleniumを用いたフォームの自動送信
-　　- powershellを用いたwindowsアプリの自動操作
+    - Rubyを用いたスクレイピング
+    - SNSの広告収集
+    - 商品登録の自動化
+    - Seleniumを用いたブラウザ自動操作&データ収集
+    - Charlesを用いたスマホのパケットキャプチャ
+    - Go言語を用いたSeleniumの自動操作
+    - JRubyを用いたSeleniumの自動操作
+    - Alexa Skillの開発
+    - Ruby on Railsを用いたアプリの回収
+    - seleniumを用いたフォームの自動送信
+    - powershellを用いたwindowsアプリの自動操作
 
 ## ソーシャルアカウント
 
