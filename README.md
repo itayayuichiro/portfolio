@@ -44,34 +44,13 @@
 
 ## 公開中のサービス、アプリケーション、ライブラリ
 
-- Youtuberコレクション[ソースコード](https://github.com/itayayuichiro/youtuber_collection)
-    - http://ity-y.sakura.ne.jp/youtuber_collection/
-    - Youtuberをまとめたサイト
-    - 使用言語:PHP,HTML,CSS
-    - 使用技術:CakePHP
+- 専修大学レポート図鑑（webアプリ）
+    - http://ity-y.sakura.ne.jp/college_reports/public/contents
+    - 専修大学レポートを保存しておけるプラットフォーム
+    - フレームワーク:Laravel
+    - 使用言語:js,php,html,css,MySQL,scss
 
-- 【専修大学限定】どう森掲示板[ソースコード](https://github.com/itayayuichiro/senshu_doumori)
-    - http://ity-y.sakura.ne.jp/senshu_doumori/login.php
-    - 専修大学の人のみが利用出来る掲示板
-    - 使用言語:PHP,HTML,CSS
 
-- LINEQ非公式ツール(LINEQサービス終了につきEND)
-    - http://itayaacademy.esy.es/lineq/
-    - LINEQというサービスの中で回答が来てない質問をフィルタリングするツール
-    - 使用言語:PHP,HTML,CSS
-    - 使用技術:スクレイピング
-
-- 専大授業口コミサイトβ
-    - http://rakutan.esy.es/
-    - 自分の大学の講義の口コミサイト（大学内のシラバスデータを一括取得し正規化）
-    - 使用言語:PHP,css,html
-    - 使用技術:スクレイピング、データの正規化、bootstrap
-
-- 歩けるWebサイト
-    - http://itayasite.sitemix.jp/
-    - 大学で作った課題のまとめサイト。enchant.jsを用いてキーボードで移動できるサイトを作ってみた
-    - 使用言語:js,php,html,css
-    - 使用技術:jquery,enchant.js
 
 - 専修大学ポータルアプリ（ネイティブアプリ）[ソースコード(アプリ)](https://github.com/itayayuichiro/senshu_app)[ソースコード(API)](https://bitbucket.org/itaya_yuichiro/senshu/src)
     - https://play.google.com/store/apps/details?id=senshu.aaa.senpo
