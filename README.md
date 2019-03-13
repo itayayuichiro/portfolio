@@ -44,6 +44,13 @@
 
 ## 公開中のサービス、アプリケーション、ライブラリ
 
+- rubyのスクレイピングスターターキット（dockerツール）
+    - https://github.com/itayayuichiro/ruby-scraping-docker
+    - rubyのスクレイピングをする環境を整えたdockerファイル
+    - 使用言語:docker
+
+
+
 - 専修大学レポート図鑑（webアプリ）
     - http://ity-y.sakura.ne.jp/college_reports/public/contents
     - 専修大学レポートを保存しておけるプラットフォーム
@@ -57,6 +64,7 @@
     - 専修大学のポータルサイトの情報を簡単に見れるアプリ
     - 使用言語:js,php,html,css
     - 使用技術:jquery,cordova,Ajax
+
 
 
 - ゆるゆるスライム大学生(LINEスタンプ)
