@@ -72,6 +72,19 @@
     - 勢いで作ったLINEスタンプ
     - 使用技術:GIMP,PowerPoint
 
+
+- エンジニアブログ(Webアプリ)
+    - http://masyumaroking.com/
+    - 自分用に作ったブログシステム
+    - 使用技術:Laravel,MySQL,adsense
+
+
+
+- ラフチューブ〜お笑い芸人Youtuber図鑑〜(Webアプリ)
+    - http://laugh-tube.skr.jp/
+    - youtubeに進出しているお笑い芸人をタイムライン形式で見ることのできるサイト
+    - 使用技術:スクレイピング,Laravel,MySQL
+
 ## 使用したことのある言語
 - インターンバイトにて
     - Ruby
@@ -80,3 +93,4 @@
     - HTML/CSS
     - PowerShell
     - AppleScript
+    - Go
