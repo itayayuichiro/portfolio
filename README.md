@@ -81,7 +81,7 @@
 
 
 - ラフチューブ〜お笑い芸人Youtuber図鑑〜(Webアプリ)
-    - http://laugh-tube.skr.jp/
+    - ~~http://laugh-tube.skr.jp/~~
     - youtubeに進出しているお笑い芸人をタイムライン形式で見ることのできるサイト
     - 使用技術:スクレイピング,Laravel,MySQL
 
