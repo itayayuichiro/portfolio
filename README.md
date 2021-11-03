@@ -31,7 +31,7 @@
     - Go言語を用いたSeleniumの自動操作
     - JRubyを用いたSeleniumの自動操作
     - Alexa Skillの開発
-    - Ruby on Railsを用いたアプリの回収
+    - Ruby on Railsを用いたアプリの改修
     - seleniumを用いたフォームの自動送信
     - powershellを用いたwindowsアプリの自動操作
 - ＜チームラボ株式会社＞
